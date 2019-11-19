@@ -1,7 +1,6 @@
 # ECON611_HW5
 ## Log
---- 
-Group Constructed; <br>
+Group Constructed; 
 | Members |
 |---------|
 | Paola   |
