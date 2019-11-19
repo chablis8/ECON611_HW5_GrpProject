@@ -1,2 +1,13 @@
-# ECON611_HW5_GrpProject
-This is for ECON611 Fall 2019_ Group Project
+# ECON611_HW5
+## Log
+--- 
+Group Constructed; <br>
+| Members |
+|---------|
+| Paola   |
+| Jeffery |
+| Emeka   |
+| Aboli   |
+| Oon     |
+| Jeff    |
+| Junjie  |
